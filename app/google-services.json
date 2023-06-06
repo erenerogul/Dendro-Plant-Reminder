@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "480943991095",
+    "project_id": "demo2-mobileapp",
+    "storage_bucket": "demo2-mobileapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:480943991095:android:995417f8325df747ecd2b2",
+        "android_client_info": {
+          "package_name": "com.gazi.demo2_mobileapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "480943991095-6j9ndsbo453vg9lk9jeshcqrpqd5c62a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbqnSRZa2Kk9gSiorjJAC8-7mkVuEIOeQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "480943991095-6j9ndsbo453vg9lk9jeshcqrpqd5c62a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

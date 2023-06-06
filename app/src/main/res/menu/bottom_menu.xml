@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/home"
+        android:title="Anasayfa"
+        android:icon="@drawable/baseline_home_24"/>
+
+    <item
+        android:id="@+id/reminder"
+        android:title="Hatırlatıcı"
+        android:icon="@drawable/baseline_access_time_24" />
+
+    <item
+        android:id="@+id/calendar"
+        android:icon="@drawable/baseline_calendar_month_24"
+        android:title="Takvim" />
+
+    <item
+        android:id="@+id/help"
+        android:title="Yardım"
+        android:icon="@drawable/baseline_help_outline_24" />
+
+</menu>
